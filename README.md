@@ -9,7 +9,7 @@ This project aims to analyze the trustworthiness of Bitcoin trading networks. By
 3. [Goodness and Fairness](#goodness-and-fairness)
 4. [Fraud Analysis](#fraud-analysis)
 5. [Time Trends](#time-trends)
-6. [Conclusion and Future Work](#conclusion-and-future-work)
+6. [Future Work](#conclusion-and-future-work)
 
 ## Introduction
 Bitcoin trading networks are complex and can be susceptible to fraudulent activities. This project provides an analytical approach to rate and verify the trustworthiness of these networks.
