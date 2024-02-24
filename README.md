@@ -15,7 +15,7 @@ This project aims to analyze the trustworthiness of Bitcoin trading networks. By
 Bitcoin trading networks are complex and can be susceptible to fraudulent activities. This project provides an analytical approach to rate and verify the trustworthiness of these networks.
 
 ## Dataset
-We utilize a comprehensive dataset of Bitcoin transactions, encompassing various metrics that contribute to a network's trust evaluation.
+We utilized a comprehensive dataset of Bitcoin transactions, encompassing various metrics that contribute to a network's trust evaluation.
 
 ## Goodness and Fairness
 Our analysis includes a fairness algorithm that ensures ratings are not biased by the network's size or transaction volume.
@@ -27,7 +27,7 @@ We apply statistical and machine learning models to detect anomalies and pattern
 Our time trend analysis assists in identifying dormant or fraudulent nodes at an early stage by observing transaction patterns over time.
 
 ## Future Impact
-Maintaining platform integrity is crucial. Our proposed future strategies involve the continuous monitoring and immediate response to fraudulent nodes.
+Maintaining platform integrity is crucial. As a result of our proposed strategies, fraudulent nodes can be continuously monitored and responded to as needed.
 
 ## Future Work
 We suggest employing assortativity in future work to detect fraudulent networks and promote genuine ones.
