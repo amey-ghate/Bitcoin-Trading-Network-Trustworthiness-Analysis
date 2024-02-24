@@ -30,4 +30,4 @@ Our time trend analysis assists in identifying dormant or fraudulent nodes at an
 Maintaining platform integrity is crucial. Our proposed future strategies involve the continuous monitoring and immediate response to fraudulent nodes.
 
 ## Future Work
-The project concludes with a neutral average rating for networks, with a mode rating of 1. We suggest employing assortativity in future work to detect fraudulent networks and promote genuine ones.
+We suggest employing assortativity in future work to detect fraudulent networks and promote genuine ones.
